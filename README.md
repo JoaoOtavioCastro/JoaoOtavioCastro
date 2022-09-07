@@ -11,8 +11,7 @@ I am studying Information Systems at Instituto Federal, where I became a compute
 
 ---
 
-<a href="http://www.github.com/JoaoOtavioCastro"><img src="https://github-readme-stats.vercel.app/api?username=JoaoOtavioCastro&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&show_icons=true" alt="JoaoOtavioCastro's GitHub stats" /></a>
-<a href="http://www.github.com/JoaoOtavioCastro"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoOtavioCastro&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/JoaoOtavioCastro" ><img src="https://github-readme-stats.vercel.app/api?username=JoaoOtavioCastro&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&show_icons=true" alt="JoaoOtavioCastro's GitHub stats" /></a>
 
 ---
 
